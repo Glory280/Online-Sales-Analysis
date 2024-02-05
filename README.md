@@ -27,7 +27,7 @@ The dataset was provided by TATA Group and it consists of 8 columns covering the
 ### Analysis List
 
 1 Sales Analysis
-This analysis aims to answer the question of the sales of product in the past year. The result of this will provide imformation about the effectiveness of each sales strategy the business applies and what modificatoins are needed to gain more sales.
+This analysis aims to answer the question of the sales of products in the past year. The result of this will provide information about the effectiveness of each sales strategy the business applies and what modifications are needed to gain more sales.
 
 2 Customer Analysis
 This analysis aims to uncover the different customers segments and purchase trends. The result will provide information about the top purchasing customers and how to retain them.
