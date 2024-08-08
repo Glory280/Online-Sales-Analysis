@@ -1,4 +1,4 @@
-# Online Sales Analysis
+# Retail Revenue Insights
 
 ## Table of Content
 - [Project Overview](#project-overview)
